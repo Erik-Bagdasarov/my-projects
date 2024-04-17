@@ -1,1 +1,1 @@
-### Cuped method
+### Bonferroni  &  Holm method
