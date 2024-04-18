@@ -139,3 +139,4 @@ GitHub.sublime-settings
 .history
 *.csv
 *.xlsx
+.DS_Store
